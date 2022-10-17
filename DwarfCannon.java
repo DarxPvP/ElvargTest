@@ -12,7 +12,11 @@ public class DwarfCannon {
 		this.ownerIndex = ownerIndex;
 		this.object = object;
 	}
-	
+
+	private void Test1(){
+		//test1
+	}
+
 	private int ownerIndex;//testtesttest
 	private GameObject object;
 	private int cannonballs = 0;
