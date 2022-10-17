@@ -13,7 +13,7 @@ public class DwarfCannon {
 		this.object = object;
 	}
 	
-	private int ownerIndex;testtesttest
+	private int ownerIndex;//testtesttest
 	private GameObject object;
 	private int cannonballs = 0;
 	private boolean cannonFiring = true;
