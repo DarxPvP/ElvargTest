@@ -16,7 +16,7 @@ public class DwarfCannon {
 	private int ownerIndex;
 	private GameObject object;
 	private int cannonballs = 0;
-	private boolean cannonFiring = false;
+	private boolean cannonFiring = true;
 	private int rotations = 0;
 	
 	public int getOwnerIndex() {
