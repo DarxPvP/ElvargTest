@@ -36,7 +36,7 @@ public class DwarfCannon {
 	}
 	
 	public boolean cannonFiring() {
-		return this.cannonFiring;
+		return this.getRotations();
 	}
 	
 	public void setCannonFiring(boolean firing) {
